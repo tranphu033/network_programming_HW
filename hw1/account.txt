@@ -1,0 +1,3 @@
+ngoc akz1 1
+thoa akz2 0
+quang akz3 1

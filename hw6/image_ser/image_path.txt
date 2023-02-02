@@ -1,0 +1,4 @@
+flower.jpg /home/tranphu/image_ser/flower.jpg
+h1.png /home/tranphu/image_ser/h1.png
+h2.png /home/tranphu/image_ser/h2.png
+space.jpg /home/tranphu/image_ser/space.jpg
